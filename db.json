@@ -1,0 +1,95 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": [
+    {
+      "name": "typicode"
+    }
+  ],
+  "Employee": [
+    {
+      "firstname": "Soniya",
+      "lastname": "Powar",
+      "email": "soniya@gmail.com",
+      "dob": "2017-02-13T18:30:00.000Z",
+      "gender": "female",
+      "education": "Graduate",
+      "company": "PP",
+      "experiance": 5,
+      "package": 100,
+      "id": 2
+    },
+    {
+      "firstname": "Prathamesh",
+      "lastname": "Powar",
+      "email": "pp@gmail.com",
+      "dob": "1990-12-31T18:30:00.000Z",
+      "gender": "male",
+      "education": "Intermediate",
+      "company": "PP",
+      "experiance": 5,
+      "package": 55,
+      "id": 3
+    },
+    {
+      "firstname": "Rahi",
+      "lastname": "Powar",
+      "email": "rpp@gmail.com",
+      "dob": "2015-01-03T18:30:00.000Z",
+      "gender": "female",
+      "education": "Diploma",
+      "company": "AAA",
+      "experiance": 4,
+      "package": 10,
+      "id": 4
+    },
+    {
+      "firstname": "Hira",
+      "lastname": "Powar",
+      "email": "hrp@gmail.com",
+      "dob": "1989-12-31T18:30:00.000Z",
+      "gender": "female",
+      "education": "Matric",
+      "company": "AAS",
+      "experiance": 3,
+      "package": 10,
+      "id": 5
+    },
+    {
+      "firstname": "Ram",
+      "lastname": "Powar",
+      "email": "rama@gmail.com",
+      "dob": "2021-12-31T18:30:00.000Z",
+      "gender": "male",
+      "education": "Intermediate",
+      "company": "RAR",
+      "experiance": 4,
+      "package": 20,
+      "id": 6
+    },
+    {
+      "firstname": "Swara",
+      "lastname": "Palsunkar",
+      "email": "Swara",
+      "dob": "2000-12-11T18:30:00.000Z",
+      "gender": "female",
+      "education": "Diploma",
+      "company": "AA",
+      "experiance": 4,
+      "package": 7,
+      "id": 7
+    }
+  ]
+}
